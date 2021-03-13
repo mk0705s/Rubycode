@@ -1,0 +1,4 @@
+First of all, thank you for downloading.
+This txt describes how to use Ruby.
+First, paste the downloaded version into the terminal.
+(You can use it on Mac, windows10, Linux terminal or command prompt.) After pasting, just press enter and the computer will start working
